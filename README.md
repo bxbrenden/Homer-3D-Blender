@@ -1,4 +1,6 @@
 # Homer-3D-Blender
+![Example render of Homer 3D](https://github.com/bxbrenden/Homer-3D-Blender/blob/main/Example-Render-Homer-3D.png)
+
 This is 3D fan art of Homer Simpson made by Brenden Hyde in Blender `2.91`.
 It's based on the [Treehouse of Horror VI](https://en.wikipedia.org/wiki/Treehouse_of_Horror_VI) segment `Homer³`.
 
